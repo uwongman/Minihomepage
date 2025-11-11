@@ -55,7 +55,7 @@ git push origin main
 ```
 
 Git 로고
-![Alt text](URL: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![(https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)]
 
 # 추가 리소스
 
